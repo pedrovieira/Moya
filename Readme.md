@@ -1,14 +1,14 @@
 <p align="center">
-  <img height="160" src="web/logo_github.png" />
+  <img height="160" src="web/logo_github.png#sg-ignore" />
 </p>
 
 # Moya
 
-[![CircleCI](https://img.shields.io/circleci/project/github/Moya/Moya/master.svg)](https://circleci.com/gh/Moya/Moya/tree/master)
-[![codecov.io](https://codecov.io/github/Moya/Moya/coverage.svg?branch=master)](https://codecov.io/github/Moya/Moya?branch=master)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CocoaPods compatible](https://img.shields.io/cocoapods/v/Moya.svg)](https://cocoapods.org/pods/Moya)
-[![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
+[![CircleCI](https://img.shields.io/circleci/project/github/Moya/Moya/master.svg#sg-ignore)](https://circleci.com/gh/Moya/Moya/tree/master)
+[![codecov.io](https://codecov.io/github/Moya/Moya/coverage.svg?branch=master#sg-ignore)](https://codecov.io/github/Moya/Moya?branch=master)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat#sg-ignore)](https://github.com/Carthage/Carthage)
+[![CocoaPods compatible](https://img.shields.io/cocoapods/v/Moya.svg#sg-ignore)](https://cocoapods.org/pods/Moya)
+[![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg#sg-ignore)](https://github.com/apple/swift-package-manager)
 
 *A Chinese version of this document can be found [here](Readme_CN.md).*
 
@@ -17,7 +17,7 @@ You're a smart developer. You probably use [Alamofire](https://github.com/Alamof
 like lots of smart developers, you write ad hoc network abstraction layers. They
 are probably called "APIManager" or "NetworkModel", and they always end in tears.
 
-![Moya Overview](web/diagram.png)
+![Moya Overview](web/diagram.png#sg-ignore)
 
 Ad hoc network layers are common in iOS apps. They're bad for a few reasons:
 
